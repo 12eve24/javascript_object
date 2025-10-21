@@ -5,7 +5,15 @@ const products = [
     { name: '商品1', price: 1800, image: 'images/img01.png', inStock: true },
     { name: '商品2', price: 3500, image: 'images/img02.png', inStock: false },
     { name: '商品3', price: 1200, image: 'images/img03.png', inStock: true },
-    { name: '商品4', price: 2100, image: 'images/img04.png', inStock: true }
+    { name: '商品4', price: 2100, image: 'images/img04.png', inStock: true },
+    { name: '商品5', price: 2800, image: 'images/img05.png', inStock: false },
+    { name: '商品6', price: 1500, image: 'images/img06.png', inStock: true },
+    { name: '商品7', price: 2400, image: 'images/img07.png', inStock: true },
+    { name: '商品8', price: 1300, image: 'images/img08.png', inStock: true },
+    { name: '商品9', price: 2600, image: 'images/img09.png', inStock: false },
+    { name: '商品10', price: 3700, image: 'images/img10.png', inStock: false },
+    { name: '商品11', price: 2900, image: 'images/img11.png', inStock: true },
+    { name: '商品12', price: 1100, image: 'images/img121.png', inStock: true }
 ];
 
 console.log('商品配列:', products);
