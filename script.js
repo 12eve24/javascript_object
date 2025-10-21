@@ -13,7 +13,7 @@ const products = [
     { name: '商品9', price: 2600, image: 'images/img09.png', inStock: false },
     { name: '商品10', price: 3700, image: 'images/img10.png', inStock: false },
     { name: '商品11', price: 2900, image: 'images/img11.png', inStock: true },
-    { name: '商品12', price: 1100, image: 'images/img121.png', inStock: true }
+    { name: '商品12', price: 1100, image: 'images/img12.png', inStock: true }
 ];
 
 console.log('商品配列:', products);
